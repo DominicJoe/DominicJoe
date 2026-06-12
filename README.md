@@ -164,7 +164,7 @@ Open_To:
 ## Connect With Me
 
 * GitHub: https://github.com/DominicJoe
-* LinkedIn: Add Your LinkedIn Profile
+* LinkedIn: https://www.linkedin.com/in/joseph-dominic-294249321
 * Email: Add Your Professional Email
 
 ---
